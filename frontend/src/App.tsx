@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import collegeStats from './CollegeBasketballTeams.json'
 import './App.css';
 
